@@ -5,3 +5,8 @@
 01course/horse-or-human.zip
 01course/tmp/images/01.jpeg
 01course/validation-horse-or-human.zip
+02course/.ipynb_checkpoints/C2_W1_Lab_1_cats_vs_dogs-checkpoint.ipynb
+02course/cats_and_dogs_filtered.zip
+*.jpg
+02course/cats_and_dogs_filtered/vectorize.py
+*.jpeg
